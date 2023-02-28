@@ -1,3 +1,5 @@
 For converting a .ipynb file to a .md file, use:
 
+    jupyter nbconvert --to markdown ProjectNotebook.ipynb --output README.md
     jupyter nbconvert --execute --to markdown README.ipynb
+    jupyter nbconvert ProjectNotebook.ipynb --to markdown README.md
