@@ -1,10 +1,14 @@
-# Capstone Project
-## Learnig Pod 3
+# **Capstone Project**
 
 
-For converting a .ipynb file to a .md file, use:
 
-        jupyter nbconvert --execute --to markdown README.ipynb
+## Introduction
+
+
+
+
+
+
 
 
 ```python
