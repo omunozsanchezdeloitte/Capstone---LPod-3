@@ -1,0 +1,3 @@
+For converting a .ipynb file to a .md file, use:
+
+    jupyter nbconvert --execute --to markdown README.ipynb
