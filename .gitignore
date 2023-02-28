@@ -1,9 +1,6 @@
 # Prerequisites
 *.d
 
-*.zip
-*.db
-
 # Object files
 *.o
 *.ko
