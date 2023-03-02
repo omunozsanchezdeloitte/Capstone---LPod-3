@@ -1,8 +1,14 @@
 # Prerequisites
 *.d
 
+<<<<<<< HEAD
 *.zip
 *.db
+=======
+.ipynb_checkpoints
+*.db
+*.zip
+>>>>>>> 68c0abf (merging different versions of main branch)
 
 # Object files
 *.o

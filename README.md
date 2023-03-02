@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Capstone Project**
 
 
@@ -22,3 +23,6 @@ import matplotlib.pyplot as plt
 ```python
 
 ```
+=======
+# Capstone-Project
+>>>>>>> 68c0abf (merging different versions of main branch)
