@@ -1,5 +1,5 @@
-# **Capstone Project**
-
+# **Capstone Project:** Data Film Analysis
+![Getting Started](Picture/movies.jpg)
 ## Introduction
 The Purpose of this notebook is to provide 3 business recomendations backed by data analysis.
 Each of our suggestions will have code associated with them. 
@@ -11,6 +11,10 @@ This code will demonstrate:
 * How we visualized the data.
 
 These steps allowed us to confidently arrive at 3 strong business reccomendations for our client, **Computing Vision**
+
+We used two datasets:
+1. IMDB located in `/zippedData/im.db`
+2. Budget's dataset located in `/zippedData/tn.movie_budgets.csv.gz`
 
 ## Importing Required Libraries and Using Sqlite3 to Connect to the Database
 
@@ -1076,6 +1080,10 @@ plt.ylabel("Average Gross Revenue (in Millions)");
 ![png](README_files/README_16_0.png)
     
 
+
+### Pro-Tip + Recommendation
+
+We can also observe that although december does not appear in the top average gross profits by months, we can't exclude it, because it is still very important as it is also the representation of the Holiday Season, or the months of Spring. With this analysis we see that mostly all months are equally important, the company, instead, should make different approaches depending on the month of release. Strategy is the changing factor, people still watch entertainment every month, the question is: What type of entertainment? We can further analyze with the following section. just to focalize the scope even more. Despite all this, it is most likley for the company to gain more worldwide gross profit if more movies are released in May, but it should also think in other months, as it would be impossible to only release in said month. 
 
 ## Asking our second question
 
@@ -2457,9 +2465,13 @@ ax.legend(['Average Rate']);
 
 
     
-![png](README_files/README_39_0.png)
+![png](README_files/README_41_0.png)
     
 
+
+### In this way...
+
+Our **second recommendation** for CV is to make a film in the **Documentary's genre** to have the highest chance of positive rating.
 
 ## Asking our third question
 
@@ -2811,7 +2823,7 @@ ax_hist.legend();
 
 
     
-![png](README_files/README_48_1.png)
+![png](README_files/README_51_1.png)
     
 
 
@@ -2916,7 +2928,7 @@ ax_hist.legend(loc='upper left');
 
 
     
-![png](README_files/README_51_1.png)
+![png](README_files/README_54_1.png)
     
 
 
@@ -2975,9 +2987,13 @@ else:
     With a p-value of 0.01177, we are able to reject the Null Hypothesis,meaning that there is a statistically significant decrease in ratingperformance for documentaries with shorter run times.
     
 
-## With the information provided, we are able to reject the Null Hypothesis.
+### With the information provided, we are able to reject the Null Hypothesis:
 
 There is a statistically significant decrease in rating performance for documentaries with shorter run times.
+
+### This leads us to the third recommendation
+
+**The documentary's runtime should be no shorter than 100 minutes.**
 
 # Conclusion
 
