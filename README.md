@@ -1813,7 +1813,7 @@ genres_rating['genres'] = genres_rating['genres'].apply(split)
 genres_rating
 ```
 
-    <ipython-input-28-72c3307714a6>:11: SettingWithCopyWarning: 
+    <ipython-input-13-fa23bb187e14>:13: SettingWithCopyWarning: 
     A value is trying to be set on a copy of a slice from a DataFrame.
     Try using .loc[row_indexer,col_indexer] = value instead
     
@@ -2348,10 +2348,6 @@ genre_rate
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <th>News</th>
-      <td>7.820000</td>
-    </tr>
     <tr>
       <th>Documentary</th>
       <td>7.348108</td>
