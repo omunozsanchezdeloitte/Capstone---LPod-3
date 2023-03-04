@@ -30,7 +30,6 @@ The Numbers is a website that provides detailed financial
 analysis about movies & films.
 
 This data allowed us to produce the following visualizations (which you can see the code for in our notebook):
-
 ![](README_files\README_14_0.png)
 
 ![](README_files\README_16_0.png)
