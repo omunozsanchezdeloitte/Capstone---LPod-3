@@ -31,15 +31,15 @@ analysis about movies & films.
 
 This data allowed us to produce the following visualizations (which you can see the code for in our notebook):
 
-![](2023-03-03-18-49-07.png)
+![]"LPod-3\README_files\README_14_0.png"
 
-![](2023-03-03-18-49-20.png)
+![]
 
-![](2023-03-03-18-49-52.png)
+![]
 
-![](2023-03-03-18-50-04.png)
+![]
 
-![](2023-03-03-18-50-12.png)
+![]
 
 The findings of our statistical inference was as follows:
 There is a statistically significant decrease in rating performance for
