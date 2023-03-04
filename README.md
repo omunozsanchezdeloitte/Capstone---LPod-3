@@ -1,17 +1,3 @@
-
-    Overview
-    Business Understanding
-        Include stakeholder and key business questions
-    Data Understanding and Analysis
-        Source of data
-        Description of data
-        Three visualizations (the same visualizations presented in the slides and notebook)
-    Statistical Communication
-        Results of statistical inference
-        Interpretation of these results in the context of the problem
-    Conclusion
-        Summary of conclusions including three relevant findings
-
 # Welcome to our project README.
 
 The main files in this Repo are "ProjectNotebook.ipynb", "Presentation.pdf", and the data sets contained in "zippedData"
@@ -45,7 +31,29 @@ analysis about movies & films.
 
 This data allowed us to produce the following visualizations (which you can see the code for in our notebook):
 
+![](2023-03-03-18-49-07.png)
 
+![](2023-03-03-18-49-20.png)
+
+![](2023-03-03-18-49-52.png)
+
+![](2023-03-03-18-50-04.png)
+
+![](2023-03-03-18-50-12.png)
+
+The findings of our statistical inference was as follows:
+There is a statistically significant decrease in rating performance for
+documentaries with shorter run times. Thus, we can reject the Null Hypothesis.
+
+**This means that when releasing a documentary (the highest rated genre), CV should shoot for a film that is 100 minutes or more.**
+
+## In Summary
+* CV should release their film in May to make the most money
+* CV should release a Documentary to achieve the highest rating
+* CV should release a Documentary that is 100 minutes (or more) long.
+
+Thank you for taking the time to read through the Readme. If you have any questions you can reach us at
+**LPOD3@ComputingVision.com** - We hope our findings have been helpful!
 
 
 
