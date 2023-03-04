@@ -30,15 +30,18 @@ The Numbers is a website that provides detailed financial
 analysis about movies & films.
 
 This data allowed us to produce the following visualizations (which you can see the code for in our notebook):
-![](README_files\README_14_0.png)
+![](
 
-![](README_files\README_16_0.png)
+![README_14_0](https://user-images.githubusercontent.com/125093337/222867568-6b4c1fe5-3dc7-4d23-9b7d-c638e0ff3d87.png)
 
-![](README_files\README_41_0.png)
+![README_16_0](https://user-images.githubusercontent.com/125093337/222867623-749445fa-2503-4a24-b33f-537b1d0c841d.png)
 
-![](README_files\README_51_1.png)
+![README_41_0](https://user-images.githubusercontent.com/125093337/222867649-64798442-adaf-425a-ae2b-ae55c2d9bfb6.png)
 
-![](README_files\README_54_1.png)
+![README_51_1](https://user-images.githubusercontent.com/125093337/222867676-4d159413-8875-4163-a0a5-cd95935c62da.png)
+
+![README_54_1](https://user-images.githubusercontent.com/125093337/222867704-71564acb-8492-4ff6-93df-4918fead909b.png)
+
 
 The findings of our statistical inference was as follows:
 There is a statistically significant decrease in rating performance for
